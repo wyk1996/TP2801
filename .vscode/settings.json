@@ -1,0 +1,13 @@
+{
+    "files.associations": {
+        "fm33lc0xx_ll_rng.h": "c",
+        "main.h": "c",
+        "user_init.h": "c",
+        "fm33lc0xx_ll_dma.h": "c",
+        "fm33_assert.h": "c",
+        "iap.h": "c",
+        "fm33lc0xx_ll_spi.h": "c",
+        "fm33lc0xx_ll_bstim.h": "c",
+        "fm33lc0xx_ll_atim.h": "c"
+    }
+}
